@@ -5,4 +5,10 @@ Civil Manuscript is a historical Cyrillic typeface based on 19th-century Bulgari
 Designed for historical reconstructions, educational materials, and cultural heritage projects.
 
 ## License 
-This font is licensed under the SIL Open Font License, Version 1.1.
+This font is licensed under the SIL Open Font License, Version 1.1.  
+
+Donations
+---------
+
+If you apreciate the project, please feel free to support us through [sponsorship button](https://github.com/sponsors/StefanPeev).  
+  
